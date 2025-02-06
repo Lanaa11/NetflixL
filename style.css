@@ -37,16 +37,6 @@ section div :hover {
     }
 }
 
-#bannièrecorée{
-    width: 100vw;
-}
-
-#fond {
-    width: 100vw;
-    background-color: red;
-    height: 100vh;
-}
-
 body {
     margin: 0px;
 }
@@ -55,5 +45,4 @@ body {
     width: 100vw;
     background-color: rgba(0, 0, 255, 0.114);
     height: 20%;
-}
 }
